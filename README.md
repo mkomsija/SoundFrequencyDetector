@@ -6,10 +6,10 @@ Mic click is used for sound acquisition.
 OLED B click is used for displaying results.  
 
 CMSIS DSP functions are used for FIR filtering, decimation and FFT calculation in Q15 precision. 
-You will need STM32 HAL drivers for the board and CMSIS DSP drivers.  
+You will need STM32 HAL drivers for the board and CMSIS DSP drivers to run the code.  
 
-My starting point was an example project for the NUCLEO-F746zg board - ADC_RegularConversion so you might find references to that project name in the code. Also, I haven't left many comments in the code because I was a little sloppy.  
+My starting point was an example project for the NUCLEO-F746zg board - ADC_RegularConversion so you might find references to that project name in comments of the code. Also, I haven't left many comments in the code because I was a little sloppy.  
 
-Project documentation is available only in Serbian. If you want more details in Serbian or English please don't hesitate to contact me. 
+Project documentation is only available in Serbian. If you want more details in Serbian or English please don't hesitate to contact me. 
 
 A short video demo is available at: https://www.youtube.com/watch?v=YwgxrIbf8e8
